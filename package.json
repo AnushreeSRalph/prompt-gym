@@ -7,12 +7,12 @@
   "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_USERNAME/prompt-gym"
+    "url": "https://github.com/AnushreeSRalph/prompt-gym"
   },
   "bugs": {
-    "url": "https://github.com/YOUR_USERNAME/prompt-gym/issues"
+    "url": "https://github.com/AnushreeSRalph/prompt-gym/issues"
   },
-  "homepage": "https://github.com/YOUR_USERNAME/prompt-gym#readme",
+  "homepage": "https://github.com/AnushreeSRalph/prompt-gym#readme",
   "license": "MIT",
   "keywords": [
     "token",

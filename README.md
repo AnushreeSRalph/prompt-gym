@@ -10,17 +10,17 @@ Draft, lint, optimize, and track prompts entirely offline before sending them to
 
 ---
 
-![Prompt Gym demo — paste a prompt, flags appear live, remove filler, copy optimized](screenshots/demo.gif)
+![Prompt Gym demo — paste a prompt, flags appear live, remove filler, copy optimized](https://raw.githubusercontent.com/AnushreeSRalph/prompt-gym/main/screenshots/demo.gif)
 
 ---
 
 ## Screenshots
 
-![Issues tab showing filler phrase flags with Remove buttons](screenshots/issues-tab.png)
+![Issues tab showing filler phrase flags with Remove buttons](https://raw.githubusercontent.com/AnushreeSRalph/prompt-gym/main/screenshots/issues-tab.png)
 
-![Optimized tab with diff view highlighting removed filler and redundant context](screenshots/optimized-tab.png)
+![Optimized tab with diff view highlighting removed filler and redundant context](https://raw.githubusercontent.com/AnushreeSRalph/prompt-gym/main/screenshots/optimized-tab.png)
 
-![Full panel overview showing token gauge, context bar, and model selector](screenshots/overview.png)
+![Full panel overview showing token gauge, context bar, and model selector](https://raw.githubusercontent.com/AnushreeSRalph/prompt-gym/main/screenshots/overview.png)
 
 ---
 
