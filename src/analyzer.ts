@@ -1,5 +1,4 @@
 import { encode as encodeO200k } from 'gpt-tokenizer/model/gpt-4o';
-import { encode as encodeCl100k } from 'gpt-tokenizer/model/gpt-3.5-turbo';
 
 export type TokenizerModel = 'o200k_base' | 'cl100k_base';
 
@@ -325,7 +324,7 @@ export interface AnalysisResult {
 
 export function countTokens(text: string, model: TokenizerModel): number {
   if (!text) { return 0; }
-  const encoder = model === 'cl100k_base' ? encodeCl100k : encodeO200k;
+  const encoder = encodeO200k;
   try {
     return encoder(text).length;
   } catch {
